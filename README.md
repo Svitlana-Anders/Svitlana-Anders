@@ -25,11 +25,15 @@
 
 ### :hammer_and_wrench:Tools :
 <div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git" alt="Git" width="64" height="64"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git" alt="Git" width="72" height="72"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="jira" alt="jira" width="64" height="64"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" title="postgresql" alt="postgresql" width="64" height="64"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="androidstudio" alt="androidstudio" width="64" height="64"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg"  title="canva" alt="canva" width="64" height="64"/>&nbsp;
+  <img src="https://github.com/NadiDU/NadiDU/raw/main/Charles_proxy.png?raw=true" title="Charles_proxy" alt="Charles_proxy" width="64" height="64" style="max-width: 100%;"/>&nbsp;
+  <img src="https://github.com/NadiDU/NadiDU/raw/main/Postman.png?raw=true" alt="Postman" width="64" height="64" style="max-width: 100%;"/>&nbsp;
+  <img src="https://github.com/NadiDU/NadiDU/raw/main/chrome_dev_browser.png?raw=true" title="Chrome-DevTools" alt="Chrome-DevTools" width="64" height="64" style="max-width: 100%;"/>&nbsp;
+  <img src="https://github.com/NadiDU/NadiDU/raw/main/json.png?raw=true" width="64" height="64" style="max-width: 100%;"/>&nbsp;
 </div>
 
 ---
