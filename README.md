@@ -33,7 +33,7 @@
   <img src="https://github.com/NadiDU/NadiDU/raw/main/Charles_proxy.png?raw=true" title="Charles_proxy" alt="Charles_proxy" width="64" height="64" style="max-width: 100%;"/>&nbsp;
   <img src="https://github.com/NadiDU/NadiDU/raw/main/Postman.png?raw=true" alt="Postman" width="64" height="64" style="max-width: 100%;"/>&nbsp;
   <img src="https://github.com/NadiDU/NadiDU/raw/main/chrome_dev_browser.png?raw=true" title="Chrome-DevTools" alt="Chrome-DevTools" width="64" height="64" style="max-width: 100%;"/>&nbsp;
-  <img src="https://github.com/NadiDU/NadiDU/raw/main/json.png?raw=true" width="64" height="64" style="max-width: 100%;"/>&nbsp;
+  <img src="https://static-00.iconduck.com/assets.00/json-icon-256x256-rgesqx9r.png?raw=true" width="64" height="64" style="max-width: 100%;"/>&nbsp;
 </div>
 
 ---
