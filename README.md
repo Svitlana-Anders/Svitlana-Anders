@@ -13,17 +13,17 @@
 
 ---
 
-### :woman_technologist: About Me :
+###  About Me :
 
 <p>Welcome to my GitHub account!</p>
-<p>🌟 I'm Svitlana Anders, a dedicated QA Engineer with a passion for ensuring software quality.</p> 
+<p> I'm Svitlana Anders, a dedicated QA Engineer with a passion for ensuring software quality.</p> 
 <p>Here you'll find my projects and insights into my testing journey. </p>
 <p>Let's collaborate, share knowledge, and improve the world of software testing together. Feel free to explore and connect. </p>
-<p></p>Happy testing! 🧪✨</p>
+<p></p>Happy testing! </p>
 
 ---
 
-### :hammer_and_wrench:Tools :
+### Tools :
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git" alt="Git" width="72" height="72"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="jira" alt="jira" width="64" height="64"/>&nbsp;
@@ -35,6 +35,12 @@
   <img src="https://github.com/NadiDU/NadiDU/raw/main/chrome_dev_browser.png?raw=true" title="Chrome-DevTools" alt="Chrome-DevTools" width="64" height="64" style="max-width: 100%;"/>&nbsp;
   <img src="https://github.com/NadiDU/NadiDU/raw/main/json.png?raw=true" width="64" height="64" style="max-width: 100%;"/>&nbsp;
 </div>
+
+---
+
+
+### My Portfolio:
+  [Homework](https://github.com/Svitlana-Anders/Homework/blob/a1b0c49837c03c0cf4f00d5753eda3e31172b6c1/Homeworks.md)
 
 ---
 
@@ -50,23 +56,3 @@
 
 
 
-
-
-
-
-
-
-<!--
-**Svitlana-Anders/Svitlana-Anders** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
