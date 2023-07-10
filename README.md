@@ -13,14 +13,22 @@
 
 ---
 
-###  About Me :
+Hello!
 
-<p>Welcome to my GitHub account!</p>
-<p> I'm Svitlana Anders, a dedicated QA Engineer with a passion for ensuring software quality.</p> 
-<p>Here you'll find my projects and insights into my testing journey. </p>
-<p>Let's collaborate, share knowledge, and improve the world of software testing together. Feel free to explore and connect. </p>
-<p></p>Happy testing! </p>
+My name is Svitlana Anders.
 
+Welcome to my GitHub portfolio! I'm delighted to greet you here and share my projects and achievements in the field of QA.
+
+As a QA engineer, my goal is to ensure high-quality software. I believe that testing and quality control play a vital role in creating reliable and user-oriented products.
+
+In my portfolio, you will find information about various projects I have been involved in, testing methodologies, tools, and frameworks I have used. I strive for continuous improvement of my skills and aim to apply cutting-edge practices to ensure successful delivery of high-quality software.
+
+Additionally, I am eager to share my expertise, publish articles, and welcome any discussions and collaborations within the QA community. If you have any questions, ideas, or interesting projects, please don't hesitate to reach out.
+
+Thank you for visiting my portfolio! I hope you will find the desired information here and learn more about my work and approach to QA.
+
+Best regards,
+[Your Name or Nickname]
 ---
 
 ### Tools :
