@@ -27,8 +27,6 @@ Thank you for visiting my portfolio! I hope you will find the desired informatio
 </html>
 
 ---
-
-### Tools :
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git" alt="Git" width="72" height="72"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="jira" alt="jira" width="64" height="64"/>&nbsp;
