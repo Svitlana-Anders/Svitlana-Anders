@@ -1,7 +1,3 @@
-<div id="header" align="center">
-  <img src="https://github.com/Svitlana-Anders/ProfileSettings/blob/main/SorvenaGif.gif" width="900"/>
-</div>
-
 <div id="badges" align="center">
   <a href="https://github.com/Svitlana-Anders">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -12,12 +8,13 @@
 </div>
 
 ---
-
-Hello!
-
+<!DOCTYPE html>
+<html>
+<p><img src="https://github.com/Svitlana-Anders/ProfileSettings/blob/e52159d6e55ad4d155d1f1bbf66c8c1e73a28bc1/photo_2023-05-13_16-07-07.jpg" width="322" height="403" align="left">
+Hello! 
 My name is Svitlana Anders.
 
-Welcome to my GitHub portfolio! I'm delighted to greet you here and share my projects and achievements in the field of QA.
+Welcome to my GitHub page! I'm delighted to greet you here and share my projects and achievements in the field of QA.
 
 As a QA engineer, my goal is to ensure high-quality software. I believe that testing and quality control play a vital role in creating reliable and user-oriented products.
 
@@ -26,9 +23,9 @@ In my portfolio, you will find information about various projects I have been in
 Additionally, I am eager to share my expertise, publish articles, and welcome any discussions and collaborations within the QA community. If you have any questions, ideas, or interesting projects, please don't hesitate to reach out.
 
 Thank you for visiting my portfolio! I hope you will find the desired information here and learn more about my work and approach to QA.
+</p>
+</html>
 
-Best regards,
-[Your Name or Nickname]
 ---
 
 ### Tools :
