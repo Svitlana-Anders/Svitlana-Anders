@@ -42,7 +42,7 @@ Thank you for visiting my portfolio! I hope you will find the desired informatio
 ---
 
 <div align="center">
-### My Portfolio:
+My Portfolio:
 </div>
 
   [Homework](https://github.com/Svitlana-Anders/Homework/blob/a1b0c49837c03c0cf4f00d5753eda3e31172b6c1/Homeworks.md)
