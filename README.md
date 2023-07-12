@@ -10,7 +10,7 @@
 ---
 <!DOCTYPE html>
 <html>
-<p><img src="https://github.com/Svitlana-Anders/ProfileSettings/blob/e52159d6e55ad4d155d1f1bbf66c8c1e73a28bc1/photo_2023-05-13_16-07-07.jpg" width="322" height="403" align="left">
+
 Hello! 
 My name is Svitlana Anders.
 
