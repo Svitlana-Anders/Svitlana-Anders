@@ -45,8 +45,15 @@ Thank you for visiting my portfolio! I hope you will find the desired informatio
 My Portfolio:
 </div>
 
+<div>
+  
   [Web-portfolio](https://svitlana-Anders.github.io)
-  [Homework](https://github.com/Svitlana-Anders/Homework/blob/2fed04a3d2649a8a82c098ec68ca479ac017f066/Homeworks.md)                 
+  
+My test documentation [Check List](https://docs.google.com/spreadsheets/d/12kYVnV3nO2mNB8Oa6qk_FO886fBIhKSMmQrKE9_LJwk/edit?usp=sharing) / [Test Cases](https://docs.google.com/spreadsheets/d/1yV_XWKz82g4aRstnRlF1cjg2UZxTM1YP_GtJiyV1WM0/edit?usp=sharing) / [Bug reports](https://docs.google.com/spreadsheets/d/1iLAJXo2MSoZonU91brA3j645LzTiyd1s1wBQq6t8ltE/edit?usp=sharing)
+
+ [Homework (SQL / Linux Terminal / Git / Devtools)](https://github.com/Svitlana-Anders/Homework/blob/2fed04a3d2649a8a82c098ec68ca479ac017f066/Homeworks.md)   
+
+ </div>
 
 ---
 
